@@ -49,8 +49,8 @@ Une boutique e-commerce souhaitant se positionner en SEO peut :
 graph TD
   A[Analyse des intentions et des comportements] --> B[Intégration IA dans outils SEO]
   B --> C[Optimisation sémantique]
-  C --> D[Structuration du contenu (balises, schéma)]
-  D --> E[Création de contenus multimodaux (texte, vidéo, images)]
+  C --> D["Structuration du contenu (balises, schéma)"]
+  D --> E["Création de contenus multimodaux (texte, vidéo, images)"]
   E --> F[Optimisation pour réponses génératives et featured snippets]
   F --> G[Amélioration du positionnement et visibilité]
 ```
