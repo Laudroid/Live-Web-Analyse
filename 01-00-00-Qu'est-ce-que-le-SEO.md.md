@@ -1,5 +1,5 @@
 
-## 1️ Qu’est-ce que le SEO ?
+# 1️ Qu’est-ce que le SEO ?
 
 Le **SEO (Search Engine Optimization)**, ou **référencement naturel**, regroupe l’ensemble des techniques visant à améliorer la visibilité d’un site web dans les résultats des moteurs de recherche comme Google, Bing ou Yahoo.
 
