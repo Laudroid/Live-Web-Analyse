@@ -9,8 +9,6 @@
 - Optimiser le référencement géographique avec les nouvelles méthodes GEO et SEO génératif.
 ## Séance 1 : Évolution du Search & IA
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre l'évolution des moteurs de recherche avec l'intégration de l'intelligence artificielle.
@@ -26,8 +24,6 @@
 - Adaptation des stratégies SEO pour répondre aux exigences de l'IA.
 - Focus sur la création de contenu de haute qualité et la recherche sémantique.
 ## Séance 2 : SEO Technique Avancé - EEAT
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
@@ -45,8 +41,6 @@
 - Construire la confiance avec des sources crédibles et sûres.
 ## Séance 3 : Accessibilité & SEO
 
-**Durée :** 2 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre l'importance de l'accessibilité dans le SEO.
@@ -58,8 +52,6 @@
 - Techniques pour une navigation intuitive et accessible à tous.
 - Impact de l'accessibilité sur le référencement naturel.
 ## Séance 4 : RGPD & Privacy-by-Design - CNIL
-
-**Durée :** 2 heures
 
 ### Objectifs pédagogiques
 
@@ -77,8 +69,6 @@
 - Gestion du consentement et documentation obligatoire (registre, analyse d'impact).
 ## Séance 5 : Outils d’audit SEO & technique
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Maîtriser les principaux outils d'audit SEO et technique.
@@ -93,8 +83,6 @@
 - Moz pour les métriques SEO avancées et API.
 ## Séance 6 : Introduction à la Web Analyse
 
-**Durée :** 2 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre les concepts fondamentaux de la web analyse.
@@ -106,8 +94,6 @@
 - Définition et objectifs de la web analyse.
 - Présentation des principaux KPI et métriques.
 ## Séance 7 : GA4 – Architecture & implémentation - Piwik PRO – Alternative RGPD-friendly
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
@@ -125,8 +111,6 @@
 - Comparaison avec GA4 en termes de respect de la vie privée.
 ## Séance 8 : Scraping - Cookies tiers
 
-**Durée :** 2 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre les enjeux liés au scraping et aux cookies tiers.
@@ -143,8 +127,6 @@
 - Réglementations en vigueur et respect de la vie privée.
 ## Séance 9 : GEO – Generative Engine Optimization
 
-**Durée :** 2 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre le référencement géographique avancé.
@@ -156,8 +138,6 @@
 - Techniques pour optimiser le référencement local et personnalisé.
 - Utilisation du contenu généré par IA pour le SEO local.
 ## Séance 10 : SEO & LLM
-
-**Durée :** 2 heures
 
 ### Objectifs pédagogiques
 
@@ -171,8 +151,6 @@
 - Création de contenu optimisé avec les outils LLM.
 ## Séance 11 : SEO programmatique & automatisation
 
-**Durée :** 2 heures
-
 ### Objectifs pédagogiques
 
 - Automatiser les tâches SEO et le référencement à grande échelle.
@@ -184,8 +162,6 @@
 - Utilisation d'outils et scripts pour automatiser le SEO.
 - Gestion des campagnes et optimisation programmatique.
 ## Séance 12 : Tendances & Futur du Search
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
